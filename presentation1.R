@@ -1,4 +1,4 @@
-# Presentation 1 - IS607 - James Quacinella
+# Presentation 1 - IS607
 #
 # The goal of this presentation is to go over some very basic R and its two data structures we'll use often:
 # vectors and data frames. A lot of this can be found in http://www.r-tutor.com/r-introduction/. Also, the
@@ -85,7 +85,7 @@ vec[vec %% 2 == 0]      # ANSWER: c(8)
 
 
 ## 1.3.4 - Named indexing
-data <- c("James", "Quacinella")
+data <- c("Holden", "Caudfield")
 data
 
 # Add a name to each column / component of the vector
